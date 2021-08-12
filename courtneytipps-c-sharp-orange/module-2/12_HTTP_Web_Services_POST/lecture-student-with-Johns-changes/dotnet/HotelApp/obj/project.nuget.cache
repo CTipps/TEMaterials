@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/C6X5/VFgF3Tx50sTcmNUmGg1a8TsV3Uy3dG5YoKoiQscNnR6vYQnoFFK+FHmRAfC4e17UlHWYvdRphfS7grgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\courtneytipps-c-sharp-orange\\module-2\\12_HTTP_Web_Services_POST\\lecture-student-with-Johns-changes\\dotnet\\HotelApp\\HotelApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,153 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #87CEEB;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+    "header nav"
+    "homepage homepage"
+    "section section"
+    "footer footer";
+}
+
+
+
+nav ul {
+    display: flex;
+    grid-area: nav;
+    margin: 0;
+    padding: 20px 0 0 0;
+    flex-direction: row;
+    gap: 20px;
+    
+}
+
+nav ul li {
+    list-style: none;
+    width: 30%;
+    background-color: #00afef;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 50px;
+}
+
+header img {
+    height: 100px;
+    width: auto;
+}
+header h1 {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+header{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+main img {
+    object-fit: cover;
+    margin-right: 20px;
+    height: 350px;
+    width: 35%;
+}
+
+main li:before {
+    content: '🍡';
+    margin-left: -31px;
+    padding-right: 8px;
+}
+
+main, section, footer {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.store-button { /* used for store link in "Get refreshed" section */
+    width: 25%;
+    padding: 10px;
+    border-radius: 5px;
+    color: #000000;
+    background-color: #00afef;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    gap: 6px;
+    margin: 8px 20px;
+}
+
+nav li a {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+main#contact-us div {
+    padding-top: 20px;
+}
+main#contact-us label {
+    display: block;
+    padding-bottom: 5px;
+}
+main#contact-us input {
+    height: 25px;
+    width: 300px;
+}
+main#contact-us select {
+    height: 30px;
+    width: 307px;
+}
+main#contact-us input[type="submit"] {
+    height: 40px;
+    width: 200px;
+    background-color: #00afef;
+    color: #ffffff;
+    border: #00afef;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+main li {
+    list-style: none;
+    margin-bottom: 8px;
+}
+
+section {
+    line-height: 24px;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.grid-container {
+    display: grid;
+}
+
+#homepage {
+    grid-area: homepage;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer{
+    grid-area: footer;
+}
+
+@media screen and (max-width: 800px) {
+    body{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}

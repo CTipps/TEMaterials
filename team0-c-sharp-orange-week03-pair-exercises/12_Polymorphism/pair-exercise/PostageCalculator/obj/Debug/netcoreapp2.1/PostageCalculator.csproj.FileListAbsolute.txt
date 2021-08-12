@@ -1,0 +1,12 @@
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\bin\Debug\netcoreapp2.1\PostageCalculator.deps.json
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\bin\Debug\netcoreapp2.1\PostageCalculator.runtimeconfig.json
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\bin\Debug\netcoreapp2.1\PostageCalculator.runtimeconfig.dev.json
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\bin\Debug\netcoreapp2.1\PostageCalculator.dll
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\bin\Debug\netcoreapp2.1\PostageCalculator.pdb
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\obj\Debug\netcoreapp2.1\PostageCalculator.csprojAssemblyReference.cache
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\obj\Debug\netcoreapp2.1\PostageCalculator.AssemblyInfoInputs.cache
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\obj\Debug\netcoreapp2.1\PostageCalculator.AssemblyInfo.cs
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\obj\Debug\netcoreapp2.1\PostageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\obj\Debug\netcoreapp2.1\PostageCalculator.dll
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\obj\Debug\netcoreapp2.1\PostageCalculator.pdb
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\PostageCalculator\obj\Debug\netcoreapp2.1\PostageCalculator.genruntimeconfig.cache

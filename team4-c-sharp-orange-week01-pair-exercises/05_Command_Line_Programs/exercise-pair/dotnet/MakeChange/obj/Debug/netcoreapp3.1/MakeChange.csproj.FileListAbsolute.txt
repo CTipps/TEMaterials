@@ -1,0 +1,13 @@
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.exe
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.deps.json
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.json
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.runtimeconfig.dev.json
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\bin\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csprojAssemblyReference.cache
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfoInputs.cache
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.AssemblyInfo.cs
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.dll
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.pdb
+C:\Users\Student\team4-c-sharp-orange-week01-pair-exercises\05_Command_Line_Programs\exercise-pair\dotnet\MakeChange\obj\Debug\netcoreapp3.1\MakeChange.genruntimeconfig.cache

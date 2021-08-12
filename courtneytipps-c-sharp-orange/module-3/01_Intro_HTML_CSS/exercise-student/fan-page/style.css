@@ -1,0 +1,22 @@
+header {
+    text-align: center;
+    background-color: aquamarine;
+}
+table{
+    background-color: darkcyan;
+}
+.table-title {
+    font-size: larger;
+}
+.Quotes {
+    font-style: italic;
+    color: seagreen;
+}
+.links{
+    font-family: "Lucida Console" ;
+    color: steelblue;
+    text-align: left;
+}
+html {
+    background-color: rgb(75, 63, 59);
+}

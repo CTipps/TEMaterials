@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZbuXy9L6mzFHl/1ByfDXJ/sSLXBK0YPb3rr30IGT72SZe9lmp5oAXdZMaGmB5OAD4QcGMf3HkokchRx3DnI8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\courtneytipps-c-sharp-orange\\module-2\\15-Review\\PetInfoClientServer\\PetInfoClient\\PetInfoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
+  "logs": []
+}

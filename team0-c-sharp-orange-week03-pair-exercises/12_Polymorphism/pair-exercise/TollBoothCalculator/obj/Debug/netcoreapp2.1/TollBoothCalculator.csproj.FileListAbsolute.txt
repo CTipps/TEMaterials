@@ -1,0 +1,12 @@
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\bin\Debug\netcoreapp2.1\TollBoothCalculator.deps.json
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\bin\Debug\netcoreapp2.1\TollBoothCalculator.runtimeconfig.json
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\bin\Debug\netcoreapp2.1\TollBoothCalculator.runtimeconfig.dev.json
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\bin\Debug\netcoreapp2.1\TollBoothCalculator.dll
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\bin\Debug\netcoreapp2.1\TollBoothCalculator.pdb
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\obj\Debug\netcoreapp2.1\TollBoothCalculator.csprojAssemblyReference.cache
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\obj\Debug\netcoreapp2.1\TollBoothCalculator.AssemblyInfoInputs.cache
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\obj\Debug\netcoreapp2.1\TollBoothCalculator.AssemblyInfo.cs
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\obj\Debug\netcoreapp2.1\TollBoothCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\obj\Debug\netcoreapp2.1\TollBoothCalculator.dll
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\obj\Debug\netcoreapp2.1\TollBoothCalculator.pdb
+C:\Users\Student\team0-c-sharp-orange-week03-pair-exercises\12_Polymorphism\pair-exercise\TollBoothCalculator\obj\Debug\netcoreapp2.1\TollBoothCalculator.genruntimeconfig.cache
