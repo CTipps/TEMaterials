@@ -1,0 +1,36 @@
+// Define variable defaults
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Nunito:200,300,400,700);
+$font-family-base:Nunito;
+@import url(https://fonts.googleapis.com/css?family=Autour+One:200,300,400,700);
+$headings-font-family:Autour One;
+
+$enable-responsive-font-sizes: true;
+// Colors
+$blue:    #36558F !default;
+$indigo:  #6610f2 !default;
+$purple:  #6f42c1 !default;
+$pink:    #e83e8c !default;
+$red:     #dc3545 !default;
+$orange:  #fd7e14 !default;
+$yellow:  #ffc107 !default;
+$green:   #008148 !default;
+$teal:    #8EAF9D !default;
+$cyan:    #17a2b8 !default;
+
+$primary:       $green !default;
+//$secondary:     $gray-600 !default;
+$success:       $green !default;
+$info:          $cyan !default;
+$warning:       $yellow !default;
+$danger:        $red !default;
+//$light:         #F5FFFA !default;
+//$dark:          $gray-800 !default;
+
+//$jumbotron-bg:  #C6DABF !default;
+
+
+// =====================================================================
+// Then import Bootstrap and BootstrapVue SCSS files (order is important)
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import 'node_modules/bootstrap-vue/src/index.scss';
