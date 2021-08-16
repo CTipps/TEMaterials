@@ -1,3 +1,3 @@
 # Final Capstone
 
-This directory contains all of the starter projects for the final capstone. The Vue starter project works with the .NET backend project with a single configuration update that you can read about in the README. Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+This directory contains the final capstone for Tech Elevator Cohort 14 .NET Team November. The application is a first iteration of a Pre-Pet Adoption Screening initially titled "Pet Tinder". It implements an API call to an outside library of adoptable pets and agencies then populates a Microsoft SQLServer database from the returned JSON objects, from here the information is passed to the browser view where, through user input, the data is filtered to provide an experience similar to the swiping function of Tinder.
